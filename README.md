@@ -1,5 +1,5 @@
-#js tree
+#image lazy loading
 
-[See the demo](http://code.shkolovy.com/tree)
+[See the demo](http://code.shkolovy.com/img-lazy-load)
 
-![ScreenShot](https://raw.github.com/artemdude/js-tree/master/screenshots/tree.png)
+![ScreenShot](https://raw.github.com/artemdude/img-lazy-load/master/screenshots/ill.png)
